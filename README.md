@@ -13,4 +13,17 @@
 - linux-4.4.276（长期版）.tar
 
 ## 🏳‍🌈虚拟机
+- Bochs
+- DOSBox
+- DOSEMU
+- Hyper-V
+- KVM
+- Logical Domains
+- OpenVZ
+- Oracle VM
+- Parallels Workstation
+- PearPC
+- QEMU
+- SimNow
+- Sun xVM
 
