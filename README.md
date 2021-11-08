@@ -26,4 +26,5 @@
 - QEMU
 - SimNow
 - Sun xVM
+- Xen
 
