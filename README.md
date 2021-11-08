@@ -40,3 +40,28 @@
 - Tiny C Compiler（TCC）
 - MinGW
 
+## 🚧编辑器
+
+- Netbeans
+- Code::Blocks
+- Eclipse 
+- CodeLite 
+- Bluefish 
+- Brackets
+- Atom 
+- Sublime Text
+- JetBrains CLion
+- Visual Studio Code
+- KDevelop 
+- Geany 
+- Ajunta DevStudio 
+- GNAT Programming Studio
+- Qt Creator
+- Emacs 
+- Nano
+- Vim
+- Joe
+- Notepad++
+- Light Table
+
+
