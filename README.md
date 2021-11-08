@@ -36,4 +36,7 @@
 - IAR
 - LLVM
 - IL2CPP 交叉编译器
+- Watcom C/C++
+- Tiny C Compiler（TCC）
+- MinGW
 
