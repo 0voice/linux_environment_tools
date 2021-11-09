@@ -134,9 +134,9 @@ Win 安装包：https://pan.baidu.com/s/1EORzRJ6WwaoHnQpHNKxvdQ
 
 - ### g++
 
-g++  是GNU组织开发出的编译器软件集合（GCC）下的一个C++编译器。它是Unix 和 Linux  系统下标配的 基于命令行的 C++编译器。如果你的系统是Windows，可以按照下面的教程安装g++。
+g++是GNU组织开发出的编译器软件集合（GCC）下的一个C++编译器。它是Unix 和 Linux  系统下标配的 基于命令行的 C++编译器。如果你的系统是Windows，可以按照下面的教程安装g++。
 
-windows系统安装gcc编译器----c/c++语言编译器：https://www.cnblogs.com/xiaolantian/p/10746206.html
+win 安装教程：https://www.cnblogs.com/xiaolantian/p/10746206.html
 
 安装包：https://pan.baidu.com/s/19lkCrn7zO-03L-6LijxO6Q
 
