@@ -122,12 +122,24 @@ VMware Workstation是VMware公司推出的一款桌面虚拟计算软件。此�
 
 Win 下载地址：https://pan.baidu.com/s/1kdFEFD_sljhbfbPw9mibOQ
 
-Linux 下载地址：
+Linux 下载地址：https://pan.baidu.com/s/1nLya-sqPkffgFIflVijy6g
 
-## ⛵编译器
+## ⛵编译器（提取码：1024 ）
 
-- GCC编译器
-- g++
+- ### [GCC编译器](https://gcc.gnu.org/)
+
+GCC 是開放原始碼 (open source) 的跨平台編譯器 (compiler) ，支援編譯 C 、 C++ 、 Objective-C 、 Fortran 、 Ada 及 Go 等程式語言
+
+Win 安装包：https://pan.baidu.com/s/1EORzRJ6WwaoHnQpHNKxvdQ
+
+- ### g++
+
+g++  是GNU组织开发出的编译器软件集合（GCC）下的一个C++编译器。它是Unix 和 Linux  系统下标配的 基于命令行的 C++编译器。如果你的系统是Windows，可以按照下面的教程安装g++。
+
+windows系统安装gcc编译器----c/c++语言编译器：https://www.cnblogs.com/xiaolantian/p/10746206.html
+
+安装包：https://pan.baidu.com/s/19lkCrn7zO-03L-6LijxO6Q
+
 - ARMCC
 - IAR
 - LLVM
