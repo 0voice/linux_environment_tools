@@ -72,11 +72,57 @@ Linux 下载地址：https://pan.baidu.com/s/1M0dsBJjXhi6jy_mAjVIG2g
 
 Mac 安装包：https://pan.baidu.com/s/1H2n00Dt7z9WI-Q5PqOoqkg 
 
-- PearPC
-- QEMU
-- SimNow
-- Sun xVM
-- Xen
+- ### [PearPC](http://pearpc.sourceforge.net/)
+
+PearPC是一个在PC平台上独立模拟PowerPC中Mac OS、Apple Darwin及Linux软体，它遵循GPL，可以运行于基于X86平台上的Windows、Linux，以及Intel架构的Mac OS X。[1]它的第一官方版本于2004年5月10日释出。
+
+PearPC拥有一个可以动态转换PPC代码到x86代码并进行高速缓存的“运行时编译执行”（JIT，Just-In-Time）技术处理器模拟核心。尽管只涉及x86主机体系机构，JIT模拟核心至少比体系结构独立的普通处理器模拟内核快十倍，这是完成可用的实时模拟的关键。
+
+Win 下载地址：https://pan.baidu.com/s/1kn2fl9ojESafuXmcFkP_0w
+
+- ### [QEMU](https://www.qemu.org/)
+
+QEMU（quick emulator）是一款由法布里斯·贝拉（Fabrice Bellard）等人编写的免费的可执行硬件虚拟化的（hardware virtualization）开源托管虚拟机（VMM）。
+
+其与Bochs，PearPC类似，但拥有高速（配合KVM），跨平台的特性。
+
+QEMU是一个托管的虚拟机镜像，它通过动态的二进制转换，模拟CPU，并且提供一组设备模型，使它能够运行多种未修改的客户机OS，可以通过与KVM一起使用进而接近本地速度运行虚拟机（接近真实电脑的速度）。
+
+QEMU还可以为user-level的进程执行CPU仿真，进而允许了为一种架构编译的程序在另外一种架构上面运行（借由VMM的形式）。
+
+Win 下载地址：https://pan.baidu.com/s/15qfv7MkI8ugDTVr8zeCfuA
+
+Mac 从 Homebrew 安装 ：```brew install qemu```
+
+Mac 从 MacPorts 安装 ：```sudo port install qemu```
+
+Linux 安装：
+
+Arch: `pacman -S qemu`
+
+Debian/Ubuntu: `apt-get install qemu`
+
+Fedora: `dnf install @virtualization`
+
+Gentoo: `emerge --ask app-emulation/qemu`
+
+RHEL/CentOS: `yum install qemu-kvm`
+
+SUSE: `zypper install qemu`
+
+- ### [Xen](https://xenproject.org/)
+
+Xen是一个开源的可直接运行于硬件层之上的虚拟化软件,它可在传统虚拟技术极度不友好的X86架构上也有上佳的表现它是英国剑桥大学开发的开源虚拟化软件,它的初衷是在一台物理机上运行上百台虚拟机;
+         
+Xen的设计十分精巧,它属于虚拟化type-I ,因为Xen实际是一个简化版的Hypervisor层;相对于Type-II类型的基于Host的虚拟化(如:VMware Workstattion),其性能相对会较好;Xen仅对CPU和Memory直接接管，而其它IO硬件驱动则由其上运行的第一个虚拟机来提供支持.这样做的原因是: Xen无法为众多IO设备开发驱动,而硬件设备的开发商也不会专为Xen提供驱动,因此Xen采用了这样一种特别的设计方式。
+
+- ### [VMware Workstation Pro](https://www.vmware.com/cn.html)
+
+VMware Workstation是VMware公司推出的一款桌面虚拟计算软件。此软件可以提供虚拟机功能，使计算机可以同时运行多个不同操作系统，以及进行开发、测试 、部署新的应用程序的最佳解决方案。该软件具有Windows、Linux版本。VMware Workstation可在一部实体机器上模拟完整的网络环境，以及可便于携带的虚拟机器，其更好的灵活性与先进的技术胜过了市面上其他的虚拟计算机软件。对于企业的 IT开发人员和系统管理员而言， VMware在虚拟网路，实时快照，拖曳共享文件夹，支持 PXE 等方面的特点使它成为必不可少的工具。
+
+Win 下载地址：https://pan.baidu.com/s/1kdFEFD_sljhbfbPw9mibOQ
+
+Linux 下载地址：
 
 ## ⛵编译器
 
