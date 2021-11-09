@@ -209,7 +209,24 @@ Eclipse CDT 是一个基于 Eclipse 主平台的项目，它提供了一个完�
   10. 反汇编查看器以及更多功能
 ```
 
-- CodeLite 
+- ### [CodeLite ](http://codelite.org/)
+
+CodeLite 也是一款为 C/C++、JavaScript（Node.js）和 PHP 编程专门设计打造的自由而开源的、跨平台的 IDE。
+
+它的一些主要特点包括：
+```
+  1. 代码补完，提供了两个代码补完引擎
+  2. 支持多种编译器，包括 GCC、clang/VC++
+  3. 以代码词汇的方式显示错误
+  4. 构建选项卡中的错误消息可点击
+  5. 支持下一代 LLDB 调试器
+  6. 支持 GDB
+  7. 支持重构
+  8. 代码导航
+  9. 使用内置的 SFTP 进行远程开发
+  10. 源代码控制插件
+  11. 开发基于 wxWidgets 应用的 RAD（快速应用程序开发）工具，以及更多的特性
+```
 - Bluefish 
 - Brackets
 - Atom 
