@@ -14,21 +14,37 @@
 
 ## 👍好用的Linux发行版推荐（提取码：1024 ）
 
-- ### [elementary OS](https://elementary.io/)：https://pan.baidu.com/s/1lzfjKpeC5yIFz_C2zlRIlA
+- ### [elementary OS](https://elementary.io/)
 
-- ### [Linux Mint](https://linuxmint.com/)：https://pan.baidu.com/s/1A4pfV3xKTv_STPU1P04-AA
+网盘地址：https://pan.baidu.com/s/1lzfjKpeC5yIFz_C2zlRIlA
 
-- ### [Arch Linux](https://archlinux.org/)：https://pan.baidu.com/s/1TaL-wtlSrhr3Z0UdglFBoQ
+- ### [Linux Mint](https://linuxmint.com/)
 
-- ### [Ubuntu](https://ubuntu.com/)：https://pan.baidu.com/s/1OuG0zvvc3b3kbeNTUQjZIw
+网盘地址：https://pan.baidu.com/s/1A4pfV3xKTv_STPU1P04-AA
 
-- ### [Tails](https://tails.boum.org/index.en.html)：https://pan.baidu.com/s/1GrVE8s_7GVo1xTo-4D99Ug
+- ### [Arch Linux](https://archlinux.org/)
 
-- ### [CentOS](https://www.centos.org/)：https://pan.baidu.com/s/1fsSk39UHGazEjp1XCog6yg
+网盘地址：https://pan.baidu.com/s/1TaL-wtlSrhr3Z0UdglFBoQ
 
-- ### [Ubuntu Studio](https://ubuntustudio.org/)：https://pan.baidu.com/s/19-Z7kuG3OI2B2LN4oqyjtw
+- ### [Ubuntu](https://ubuntu.com/)
 
-- ### [openSUSE](https://www.opensuse.org/)：https://pan.baidu.com/s/1t72-mM09xCeER6zczdrY_A
+网盘地址：https://pan.baidu.com/s/1OuG0zvvc3b3kbeNTUQjZIw
+
+- ### [Tails](https://tails.boum.org/index.en.html)
+
+网盘地址：https://pan.baidu.com/s/1GrVE8s_7GVo1xTo-4D99Ug
+
+- ### [CentOS](https://www.centos.org/)
+
+网盘地址：https://pan.baidu.com/s/1fsSk39UHGazEjp1XCog6yg
+
+- ### [Ubuntu Studio](https://ubuntustudio.org/)
+
+网盘地址：https://pan.baidu.com/s/19-Z7kuG3OI2B2LN4oqyjtw
+
+- ### [openSUSE](https://www.opensuse.org/)
+
+网盘地址：https://pan.baidu.com/s/1t72-mM09xCeER6zczdrY_A
 
 
 ## 🏳‍🌈虚拟机（提取码：1024 ）
