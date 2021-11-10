@@ -29,7 +29,6 @@
 
 - ### [Ubuntu Studio](https://ubuntustudio.org/)
 
-
 - ### [openSUSE](https://www.opensuse.org/)
 
 
