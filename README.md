@@ -12,23 +12,23 @@
 - [linux-4.9.276（长期版）.tar](https://pan.baidu.com/s/1k43C6q5ckiweyvWC9kkxkw)
 - [linux-4.4.276（长期版）.tar](https://pan.baidu.com/s/1NvTBB-zPwrmaUYIb6i9ERA)
 
-## 👍最好的Linux发行版推荐
+## 👍好用的Linux发行版推荐（提取码：1024 ）
 
-- ### [elementary OS](https://elementary.io/)
+- ### [elementary OS](https://elementary.io/)：https://pan.baidu.com/s/1lzfjKpeC5yIFz_C2zlRIlA
 
-- ### [Linux Mint](https://linuxmint.com/)
+- ### [Linux Mint](https://linuxmint.com/)：https://pan.baidu.com/s/1A4pfV3xKTv_STPU1P04-AA
 
-- ### [Arch Linux](https://archlinux.org/)
+- ### [Arch Linux](https://archlinux.org/)：https://pan.baidu.com/s/1TaL-wtlSrhr3Z0UdglFBoQ
 
-- ### [Ubuntu](https://ubuntu.com/)
+- ### [Ubuntu](https://ubuntu.com/)：https://pan.baidu.com/s/1OuG0zvvc3b3kbeNTUQjZIw
 
-- ### [Tails](https://tails.boum.org/index.en.html)
+- ### [Tails](https://tails.boum.org/index.en.html)：https://pan.baidu.com/s/1GrVE8s_7GVo1xTo-4D99Ug
 
-- ### [CentOS](https://www.centos.org/)
+- ### [CentOS](https://www.centos.org/)：https://pan.baidu.com/s/1fsSk39UHGazEjp1XCog6yg
 
-- ### [Ubuntu Studio](https://ubuntustudio.org/)
+- ### [Ubuntu Studio](https://ubuntustudio.org/)：https://pan.baidu.com/s/19-Z7kuG3OI2B2LN4oqyjtw
 
-- ### [openSUSE](https://www.opensuse.org/)
+- ### [openSUSE](https://www.opensuse.org/)：https://pan.baidu.com/s/1t72-mM09xCeER6zczdrY_A
 
 
 ## 🏳‍🌈虚拟机（提取码：1024 ）
