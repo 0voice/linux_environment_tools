@@ -59,6 +59,8 @@
 - ### AliOS
 - ### UOS
 - ### 鸿蒙 Harmony OS
+- ### CutefishOS
+- ### openEuler
 
 
 ## 🏳‍🌈虚拟机（提取码：1024 ）
