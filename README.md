@@ -12,6 +12,20 @@
 - [linux-4.9.276（长期版）.tar](https://pan.baidu.com/s/1k43C6q5ckiweyvWC9kkxkw)
 - [linux-4.4.276（长期版）.tar](https://pan.baidu.com/s/1NvTBB-zPwrmaUYIb6i9ERA)
 
+## 👍最好的Linux发行版推荐
+
+- ### [elementary OS](https://elementary.io/)
+
+- ### Linux Mint
+
+- ### Arch Linux
+- ### Ubuntu
+- ### Tails
+- ### CentOS
+- ### Ubuntu Studio
+- ### openSUSE
+
+
 ## 🏳‍🌈虚拟机（提取码：1024 ）
 
 - ### [Bochs](https://bochs.sourceforge.io/)
