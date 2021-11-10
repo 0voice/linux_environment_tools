@@ -227,14 +227,116 @@ CodeLite 也是一款为 C/C++、JavaScript（Node.js）和 PHP 编程专门设�
   10. 源代码控制插件
   11. 开发基于 wxWidgets 应用的 RAD（快速应用程序开发）工具，以及更多的特性
 ```
-- Bluefish 
-- Brackets
-- Atom 
-- Sublime Text
-- JetBrains CLion
-- Visual Studio Code
-- KDevelop 
-- Geany 
+- ### [Bluefish](http://bluefish.openoffice.nl) 
+
+Bluefish 不仅仅是一个一般的编辑器，它是一个轻量级的、快捷的编辑器，为程序员提供了如开发网站、编写脚本和软件代码的 IDE 特性。它支持多平台，可以在 Linux、Mac OSX、FreeBSD、OpenBSD、Solaris 和 Windows 上运行，同时支持包括 C/C++ 在内的众多编程语言。
+
+下面列出的是它众多功能的一部分：
+
+```
+1. 多文档界面
+2. 支持递归打开文件，基于文件名通配模式或者内容模式
+3. 提供一个非常强大的搜索和替换功能
+4. 代码片段边栏
+5. 支持整合个人的外部过滤器，可使用命令如 awk，sed，sort 以及自定义构建脚本组成（过滤器的）管道文件
+6. 支持全屏编辑
+7. 网站上传和下载
+8. 支持多种编码等许多其他功能
+```
+
+- ### [Brackets](http://brackets.io/)
+
+Brackets 是一个现代化风格的、开源的文本编辑器，专为 Web 设计与开发打造。它可以通过插件进行高度扩展，因此 C/C++ 程序员通过安装 C/C++/Objective-C 包来使用它来开发，这个包用来在辅助 C/C++ 代码编写的同时提供了 IDE 之类的特性。
+
+- ### [Atom](https://atom.io/)
+
+Atom 也是一个现代化风格、开源的多平台文本编辑器，它能运行在 Linux、Windows 或是 Mac OS X 平台。它的定制可深入底层，用户可以自定义它，以便满足各种编写代码的需求。
+
+它功能完整，主要的功能包括：
+
+```
+1. 内置了包管理器
+2. 智能的自动补完
+3. 内置文件浏览器
+4. 查找、替换以及其他更多的功能
+```
+
+安装指南： http://www.tecmint.com/atom-text-and-source-code-editor-for-linux/
+
+- ### [Sublime Text](https://www.sublimetext.com)
+
+Sublime Text 是一个完善的、跨平台的文本编辑器，可用于代码、标记语言和一般文字。它可以用来编写 C/C++ 代码，并且提供了非常棒的用户界面。
+
+它的功能列表包括：
+
+```
+1. 多重选择
+2. 按模式搜索命令
+3. 抵达任何一处的功能
+4. 免打扰模式
+5. 窗口分割
+6. 支持项目之间快速的切换
+7. 高度可定制
+8. 支持基于 Python 的 API 插件以及其他特性
+```
+安装指南： http://www.tecmint.com/install-sublime-text-editor-in-linux/
+
+- ### [JetBrains CLion](https://www.jetbrains.com/clion/)
+
+JetBrains CLion 是一个收费的、强大的跨平台 C/C++ IDE。它是一个完全整合的 C/C++ 程序开发环境，并提供 Cmake 项目模型、一个嵌入式终端窗口和一个主要以键盘操作的编码环境。
+
+它还提供了一个智能而现代化的编辑器，具有许多令人激动的功能，提供了理想的编码环境，这些功能包括：
+
+```
+1. 除了 C/C++ 还支持其他多种语言
+2. 在符号声明和上下文中轻松导航
+3. 代码生成和重构
+4. 可定制的编辑器
+5. 即时代码分析
+6. 集成的代码调试器
+7. 支持 Git、Subversion、Mercurial、CVS、Perforcevia（通过插件）和 TFS
+8. 无缝集成了 Google 测试框架
+9. 通过 Vim 仿真插件支持 Vim 编辑体验
+```
+
+- ### [Visual Studio Code](https://www.visualstudio.com)
+
+Visual Studio 是一个功能丰富的、完全整合的、跨平台开发环境，运行在 Linux、Windows 和 Mac OS X 上。 最近它向 Linux 用户开源了，它重新定义了代码编辑这件事，为用户提供了在 Windows、Android、iOS 和 Web 等多个平台开发不同应用所需的一切工具。
+
+它功能完备，功能分类为应用程序开发、应用生命周期管理、扩展和集成特性。你可以从 Visual Studio 官网阅读全面的功能列表。
+
+- ### [KDevelop](https://www.kdevelop.org) 
+
+KDevelop 是另一个自由而开源的跨平台 IDE，能够运行在 Linux、Solaris、FreeBSD、Windows、Mac OS X 和其他类 Unix 操作系统上。它基于 KDevPlatform、KDE 和 Qt 库。KDevelop 可以通过插件高度扩展，功能丰富且具有以下显著特色：
+
+```
+1. 支持基于 Clang 的 C/C++ 插件
+2. 支持 KDE 4 配置迁移
+3. 支持调用二进制编辑器 Oketa
+4. 支持众多视图插件下的差异行编辑
+5. 支持 Grep 视图，使用窗口小部件节省垂直空间等
+```
+
+- ### [Geany](http://www.geany.org/) 
+
+Geany 是一个免费的、快速的、轻量级跨平台 IDE，只需要很少的依赖包就可以工作，独立于流行的 Linux 桌面环境下，比如 GNOME 和 KDE。它需要 GTK2 库实现功能。
+
+它的特性包括以下列出的内容：
+
+```
+1. 支持语法高亮显示
+2. 代码折叠
+3. 调用提示
+4. 符号名自动补完
+5. 符号列表
+6. 代码导航
+7. 一个简单的项目管理工具
+8. 可以编译并运行用户代码的内置系统
+9. 可以通过插件扩展
+```
+
+
+
 - Ajunta DevStudio 
 - GNAT Programming Studio
 - Qt Creator
