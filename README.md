@@ -50,23 +50,16 @@
 ## 🥇国产之光
 
 - ### [deepin](https://www.deepin.org/)
-
 - ### [优麒麟](https://www.ubuntukylin.com/)
-
 - ### [中标麒麟](https://www.kylinos.cn/)
-
 - ### [StartOS](https://www.startos.com/)
-
-
-- ### 中兴新支点操作系统
-- ### 红旗 linux
-- ### 一铭操作系统
-- ### AliOS
-- ### UOS
-- ### 鸿蒙 Harmony OS
-- ### CutefishOS
-- ### openEuler
-
+- ### [CutefishOS](https://cn.cutefishos.com/)
+- ### [红旗 linux](https://www.chinaredflag.cn/)
+- ### [中兴新支点操作系统](https://www.gd-linux.com/desktop/)
+- ### [UOS](https://www.chinauos.com/)
+- ### [JingOS](https://cn.jingos.com/)
+- ### [openEuler](https://www.openeuler.org/zh/)
+- ### [AliOS](https://www.alios.cn/)
 
 ## 🏳‍🌈虚拟机（提取码：1024 ）
 
