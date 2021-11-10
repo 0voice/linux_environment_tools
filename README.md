@@ -531,4 +531,52 @@ Vim，一款 VI 编辑器的改进版本，是一款自由的、强大的、流�
 - OpenSTA
 - Sysbench 
 
+### 性能监控工具
+
+- dstat - 多类型资源统计工具
+- top - 相比top更好的ASCII码体验
+- Nmon - 类Unix系统的性能监控
+- slabtop - 显示内核slab缓存信息
+- sar - 性能监控和瓶颈检查
+- Saidar - 简单的统计监控工具
+- top - 经典的Linux任务管理工具
+- Sysdig - 系统进程的高级视图
+- netstat - 显示开放的端口和连接
+- tcpdump - 洞察网络封包
+- vmstat - 虚拟内存统计信息
+- free - 内存统计信息
+- Htop - 更加友好的top
+- ss - 网络管理的现代替代品
+- lsof - 列表显示打开的文件
+- iftop - 类似top的了网络连接工具
+- iperf - 网络性能工具
+- Smem - 高级内存报表工具
+- Icinga - Nagios的社区分支版本
+- Nagios - 最为流行的监控工具
+- Linux process explorer - Linux下的procexp
+- Collectl - 性能监控工具
+- MRTG - 经典网络流量监控图形工具
+- Monit - 简单易用的监控工具
+- Munin - 为服务器提供监控和提醒服务
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
