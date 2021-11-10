@@ -47,16 +47,37 @@
 网盘地址：https://pan.baidu.com/s/1t72-mM09xCeER6zczdrY_A
 
 
-## 🥇国产之光
+## 🥇国产之光（提取码：1024 ）
 
 - ### [deepin](https://www.deepin.org/)
+
+网盘地址：https://pan.baidu.com/s/1G2-jZ-XgAQLWV_pZcpvi_A
+
 - ### [优麒麟](https://www.ubuntukylin.com/)
-- ### [中标麒麟](https://www.kylinos.cn/)
+
+网盘地址：https://pan.baidu.com/s/1pSFjP8qRpQKtVrBtsHEo7g
+
 - ### [StartOS](https://www.startos.com/)
+
+网盘地址：https://pan.baidu.com/s/1Sj5I1au_z6S4wtwy06TNag
+
 - ### [CutefishOS](https://cn.cutefishos.com/)
+
+网盘地址：https://pan.baidu.com/s/1EU7FNst_ttmhf1xHgACkdw
+
 - ### [红旗 linux](https://www.chinaredflag.cn/)
+
+网盘地址：https://pan.baidu.com/s/1R0hIWBSfL3fkq8L5RFVCZA
+
 - ### [中兴新支点操作系统](https://www.gd-linux.com/desktop/)
+
+网盘地址：https://pan.baidu.com/s/1-4P6KVTd51VTC1uC-HG4bA
+
 - ### [UOS](https://www.chinauos.com/)
+
+网盘地址：https://pan.baidu.com/s/1nZuII3wBJTPyNGUILZ3nQQ
+
+- ### [中标麒麟](https://www.kylinos.cn/)
 - ### [JingOS](https://cn.jingos.com/)
 - ### [openEuler](https://www.openeuler.org/zh/)
 - ### [AliOS](https://www.alios.cn/)
