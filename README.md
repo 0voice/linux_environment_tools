@@ -21,11 +21,10 @@
 - ### [Arch Linux](https://archlinux.org/)
 
 - ### [Ubuntu](https://ubuntu.com/)
-- 
+
 - ### [Tails](https://tails.boum.org/index.en.html)
 
 - ### [CentOS](https://www.centos.org/)
-
 
 - ### [Ubuntu Studio](https://ubuntustudio.org/)
 
