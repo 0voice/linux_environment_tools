@@ -16,14 +16,21 @@
 
 - ### [elementary OS](https://elementary.io/)
 
-- ### Linux Mint
+- ### [Linux Mint](https://linuxmint.com/)
 
-- ### Arch Linux
-- ### Ubuntu
-- ### Tails
-- ### CentOS
-- ### Ubuntu Studio
-- ### openSUSE
+- ### [Arch Linux](https://archlinux.org/)
+
+- ### [Ubuntu](https://ubuntu.com/)
+- 
+- ### [Tails](https://tails.boum.org/index.en.html)
+
+- ### [CentOS](https://www.centos.org/)
+
+
+- ### [Ubuntu Studio](https://ubuntustudio.org/)
+
+
+- ### [openSUSE](https://www.opensuse.org/)
 
 
 ## 🏳‍🌈虚拟机（提取码：1024 ）
